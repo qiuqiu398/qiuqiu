@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/JSP001.iml" filepath="$PROJECT_DIR$/JSP001.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JSP请求作业/JSP请求作业1.iml" filepath="$PROJECT_DIR$/JSP请求作业/JSP请求作业1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JSP页面请求/JSP页面请求.iml" filepath="$PROJECT_DIR$/JSP页面请求/JSP页面请求.iml" />
+    </modules>
+  </component>
+</project>
